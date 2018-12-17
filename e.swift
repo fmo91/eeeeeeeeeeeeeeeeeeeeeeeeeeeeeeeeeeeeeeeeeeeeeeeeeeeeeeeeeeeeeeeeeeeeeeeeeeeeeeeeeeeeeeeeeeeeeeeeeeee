@@ -1,3 +1,3 @@
 while true {
-  print("e")
+  print("e", terminator: "")
 }
